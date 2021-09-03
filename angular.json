@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practica-akita"
+    }
+  },
+  "defaultProject": "practica-akita",
+  "cli": {
+    "defaultCollection": "@datorama/akita"
+  }
 }
